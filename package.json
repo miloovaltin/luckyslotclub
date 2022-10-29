@@ -1,0 +1,17 @@
+
+{
+"name": "luckyslotclub",
+"theme": "lucky slot club",
+"version": "7.10.2",
+"description": "lucky slot club ทางเข้าหลักเว็บไซต์แทงบอลเว็บตรง ไม่มีขั้นต่ำ ให้เครดิตฟรี",
+"keywords": [
+"lucky slot club",
+"lucky slot club เครดิตฟรี",
+"lucky slot club ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/luckyslotclub",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
